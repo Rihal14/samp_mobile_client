@@ -1847,7 +1847,7 @@
             "path": "texdb\/samp.img",
             "url": "https:\/\/samp.fun\/samp_client\/full_data\/texdb\/samp.img",
             "gpu": "all"
-        }
+        },
         {
             "name": "peds.col",
             "size": "21477",
