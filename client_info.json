@@ -1,11 +1,11 @@
 {
   "launcher": {
-    "version": "7.9.0"
+    "version": "7.9.1"
   },
   "game": {
-    "version": "7.9.0"
+    "version": "7.9.1"
   },
   "test": {
-    "version": "7.9.0"
+    "version": "7.9.1"
   }
 }
