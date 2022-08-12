@@ -1653,6 +1653,13 @@
             "gpu": "all"
         },
         {
+            "name": "gtaweap3.ttf",
+            "size": "352224",
+            "path": "fonts\/gtaweap3.ttf",
+            "url": "https:\/\/samp.fun\/samp_client\/full_data\/fonts\/gtaweap3.ttf",
+            "gpu": "all"
+        },
+        {
             "name": "server.ini",
             "size": "89349",
             "path": "SAMP\/server.ini",
