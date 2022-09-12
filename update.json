@@ -1,6 +1,10 @@
 {
-    "client_version": "1.0",
-    "client_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile/app-game-release.apk",
+    "launcher_version": "1.0",
+    "launcher_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile/app-launcher-release.apk",
+    
+    "game_version": "1.0",
+    "game_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile/app-game-release.apk",
+    
     "data_full_url": "https://cdn-samplauncher.perfect-antiddos.com/mobile/cache/full_list.json",
     "data_lite_url": "https://cdn-samplauncher.perfect-antiddos.com/mobile/cache/lite_list.json",
     "data_samp_url": "https://cdn-samplauncher.perfect-antiddos.com/mobile/cache/samp_list.json"
