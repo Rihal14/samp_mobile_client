@@ -3,1757 +3,1757 @@
     {
       "name": "anim.img",
       "path": "anim\/anim.img",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/anim\/anim.img"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/anim\/anim.img"
     },
     {
       "name": "cuts.img",
       "path": "anim\/cuts.img",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/anim\/cuts.img"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/anim\/cuts.img"
     },
     {
       "name": "ped.ifp",
       "path": "anim\/ped.ifp",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/anim\/ped.ifp"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/anim\/ped.ifp"
     },
     {
       "name": "AudioEventHistory.txt",
       "path": "audio\/CONFIG\/AudioEventHistory.txt",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/CONFIG\/AudioEventHistory.txt"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/CONFIG\/AudioEventHistory.txt"
     },
     {
       "name": "BankLkup.dat",
       "path": "audio\/CONFIG\/BankLkup.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/CONFIG\/BankLkup.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/CONFIG\/BankLkup.dat"
     },
     {
       "name": "BankSlot.dat",
       "path": "audio\/CONFIG\/BankSlot.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/CONFIG\/BankSlot.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/CONFIG\/BankSlot.dat"
     },
     {
       "name": "EventVol.dat",
       "path": "audio\/CONFIG\/EventVol.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/CONFIG\/EventVol.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/CONFIG\/EventVol.dat"
     },
     {
       "name": "PakFiles.dat",
       "path": "audio\/CONFIG\/PakFiles.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/CONFIG\/PakFiles.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/CONFIG\/PakFiles.dat"
     },
     {
       "name": "SOUNDINF.DAT",
       "path": "audio\/CONFIG\/SOUNDINF.DAT",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/CONFIG\/SOUNDINF.DAT"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/CONFIG\/SOUNDINF.DAT"
     },
     {
       "name": "StrmPaks.dat",
       "path": "audio\/CONFIG\/StrmPaks.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/CONFIG\/StrmPaks.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/CONFIG\/StrmPaks.dat"
     },
     {
       "name": "TRKHEAD.DAT",
       "path": "audio\/CONFIG\/TRKHEAD.DAT",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/CONFIG\/TRKHEAD.DAT"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/CONFIG\/TRKHEAD.DAT"
     },
     {
       "name": "TrakLkup.dat",
       "path": "audio\/CONFIG\/TrakLkup.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/CONFIG\/TrakLkup.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/CONFIG\/TrakLkup.dat"
     },
     {
       "name": "FEET.osw",
       "path": "audio\/SFX\/FEET.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/FEET.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/FEET.osw"
     },
     {
       "name": "FEET.osw.idx",
       "path": "audio\/SFX\/FEET.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/FEET.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/FEET.osw.idx"
     },
     {
       "name": "GENRL.osw",
       "path": "audio\/SFX\/GENRL.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/GENRL.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/GENRL.osw"
     },
     {
       "name": "GENRL.osw.idx",
       "path": "audio\/SFX\/GENRL.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/GENRL.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/GENRL.osw.idx"
     },
     {
       "name": "PAIN_A.osw",
       "path": "audio\/SFX\/PAIN_A.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/PAIN_A.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/PAIN_A.osw"
     },
     {
       "name": "PAIN_A.osw.idx",
       "path": "audio\/SFX\/PAIN_A.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/PAIN_A.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/PAIN_A.osw.idx"
     },
     {
       "name": "SCRIPT.osw",
       "path": "audio\/SFX\/SCRIPT.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SCRIPT.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SCRIPT.osw"
     },
     {
       "name": "SCRIPT.osw.idx",
       "path": "audio\/SFX\/SCRIPT.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SCRIPT.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SCRIPT.osw.idx"
     },
     {
       "name": "SPC_EA.osw",
       "path": "audio\/SFX\/SPC_EA.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SPC_EA.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SPC_EA.osw"
     },
     {
       "name": "SPC_EA.osw.idx",
       "path": "audio\/SFX\/SPC_EA.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SPC_EA.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SPC_EA.osw.idx"
     },
     {
       "name": "SPC_FA.osw",
       "path": "audio\/SFX\/SPC_FA.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SPC_FA.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SPC_FA.osw"
     },
     {
       "name": "SPC_FA.osw.idx",
       "path": "audio\/SFX\/SPC_FA.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SPC_FA.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SPC_FA.osw.idx"
     },
     {
       "name": "SPC_GA.osw",
       "path": "audio\/SFX\/SPC_GA.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SPC_GA.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SPC_GA.osw"
     },
     {
       "name": "SPC_GA.osw.idx",
       "path": "audio\/SFX\/SPC_GA.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SPC_GA.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SPC_GA.osw.idx"
     },
     {
       "name": "SPC_NA.osw",
       "path": "audio\/SFX\/SPC_NA.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SPC_NA.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SPC_NA.osw"
     },
     {
       "name": "SPC_NA.osw.idx",
       "path": "audio\/SFX\/SPC_NA.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SPC_NA.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SPC_NA.osw.idx"
     },
     {
       "name": "SPC_PA.osw",
       "path": "audio\/SFX\/SPC_PA.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SPC_PA.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SPC_PA.osw"
     },
     {
       "name": "SPC_PA.osw.idx",
       "path": "audio\/SFX\/SPC_PA.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/SFX\/SPC_PA.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/SFX\/SPC_PA.osw.idx"
     },
     {
       "name": "AA.osw",
       "path": "audio\/STREAMS\/AA.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/AA.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/AA.osw"
     },
     {
       "name": "AA.osw.idx",
       "path": "audio\/STREAMS\/AA.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/AA.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/AA.osw.idx"
     },
     {
       "name": "ADVERTS.osw",
       "path": "audio\/STREAMS\/ADVERTS.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/ADVERTS.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/ADVERTS.osw"
     },
     {
       "name": "ADVERTS.osw.idx",
       "path": "audio\/STREAMS\/ADVERTS.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/ADVERTS.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/ADVERTS.osw.idx"
     },
     {
       "name": "AMBIENCE.osw",
       "path": "audio\/STREAMS\/AMBIENCE.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/AMBIENCE.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/AMBIENCE.osw"
     },
     {
       "name": "AMBIENCE.osw.idx",
       "path": "audio\/STREAMS\/AMBIENCE.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/AMBIENCE.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/AMBIENCE.osw.idx"
     },
     {
       "name": "BEATS.osw",
       "path": "audio\/STREAMS\/BEATS.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/BEATS.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/BEATS.osw"
     },
     {
       "name": "BEATS.osw.idx",
       "path": "audio\/STREAMS\/BEATS.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/BEATS.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/BEATS.osw.idx"
     },
     {
       "name": "CH.osw",
       "path": "audio\/STREAMS\/CH.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/CH.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/CH.osw"
     },
     {
       "name": "CH.osw.idx",
       "path": "audio\/STREAMS\/CH.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/CH.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/CH.osw.idx"
     },
     {
       "name": "CO.osw",
       "path": "audio\/STREAMS\/CO.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/CO.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/CO.osw"
     },
     {
       "name": "CO.osw.idx",
       "path": "audio\/STREAMS\/CO.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/CO.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/CO.osw.idx"
     },
     {
       "name": "CR.osw",
       "path": "audio\/STREAMS\/CR.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/CR.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/CR.osw"
     },
     {
       "name": "CR.osw.idx",
       "path": "audio\/STREAMS\/CR.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/CR.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/CR.osw.idx"
     },
     {
       "name": "CUTSCENE.osw",
       "path": "audio\/STREAMS\/CUTSCENE.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/CUTSCENE.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/CUTSCENE.osw"
     },
     {
       "name": "CUTSCENE.osw.idx",
       "path": "audio\/STREAMS\/CUTSCENE.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/CUTSCENE.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/CUTSCENE.osw.idx"
     },
     {
       "name": "DS.osw",
       "path": "audio\/STREAMS\/DS.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/DS.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/DS.osw"
     },
     {
       "name": "DS.osw.idx",
       "path": "audio\/STREAMS\/DS.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/DS.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/DS.osw.idx"
     },
     {
       "name": "HC.osw",
       "path": "audio\/STREAMS\/HC.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/HC.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/HC.osw"
     },
     {
       "name": "HC.osw.idx",
       "path": "audio\/STREAMS\/HC.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/HC.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/HC.osw.idx"
     },
     {
       "name": "MH.osw",
       "path": "audio\/STREAMS\/MH.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/MH.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/MH.osw"
     },
     {
       "name": "MH.osw.idx",
       "path": "audio\/STREAMS\/MH.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/MH.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/MH.osw.idx"
     },
     {
       "name": "MR.osw",
       "path": "audio\/STREAMS\/MR.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/MR.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/MR.osw"
     },
     {
       "name": "MR.osw.idx",
       "path": "audio\/STREAMS\/MR.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/MR.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/MR.osw.idx"
     },
     {
       "name": "NJ.osw",
       "path": "audio\/STREAMS\/NJ.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/NJ.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/NJ.osw"
     },
     {
       "name": "NJ.osw.idx",
       "path": "audio\/STREAMS\/NJ.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/NJ.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/NJ.osw.idx"
     },
     {
       "name": "RE.osw",
       "path": "audio\/STREAMS\/RE.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/RE.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/RE.osw"
     },
     {
       "name": "RE.osw.idx",
       "path": "audio\/STREAMS\/RE.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/RE.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/RE.osw.idx"
     },
     {
       "name": "RG.osw",
       "path": "audio\/STREAMS\/RG.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/RG.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/RG.osw"
     },
     {
       "name": "RG.osw.idx",
       "path": "audio\/STREAMS\/RG.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/RG.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/RG.osw.idx"
     },
     {
       "name": "TK.osw",
       "path": "audio\/STREAMS\/TK.osw",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/TK.osw"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/TK.osw"
     },
     {
       "name": "TK.osw.idx",
       "path": "audio\/STREAMS\/TK.osw.idx",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/audio\/STREAMS\/TK.osw.idx"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/audio\/STREAMS\/TK.osw.idx"
     },
     {
       "name": "360Default1280x720.cfg",
       "path": "data\/360Default1280x720.cfg",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/360Default1280x720.cfg"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/360Default1280x720.cfg"
     },
     {
       "name": "360Default960x720.cfg",
       "path": "data\/360Default960x720.cfg",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/360Default960x720.cfg"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/360Default960x720.cfg"
     },
     {
       "name": "Cop.ped",
       "path": "data\/Decision\/Allowed\/Cop.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/Cop.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/Cop.ped"
     },
     {
       "name": "Fireman.ped",
       "path": "data\/Decision\/Allowed\/Fireman.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/Fireman.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/Fireman.ped"
     },
     {
       "name": "GangMbr.ped",
       "path": "data\/Decision\/Allowed\/GangMbr.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/GangMbr.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/GangMbr.ped"
     },
     {
       "name": "Indoors.ped",
       "path": "data\/Decision\/Allowed\/Indoors.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/Indoors.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/Indoors.ped"
     },
     {
       "name": "MISSION.grp",
       "path": "data\/Decision\/Allowed\/MISSION.grp",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/MISSION.grp"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/MISSION.grp"
     },
     {
       "name": "RANDOM.grp",
       "path": "data\/Decision\/Allowed\/RANDOM.grp",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/RANDOM.grp"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/RANDOM.grp"
     },
     {
       "name": "RANDOM.ped",
       "path": "data\/Decision\/Allowed\/RANDOM.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/RANDOM.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/RANDOM.ped"
     },
     {
       "name": "RANDOM2.grp",
       "path": "data\/Decision\/Allowed\/RANDOM2.grp",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/RANDOM2.grp"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/RANDOM2.grp"
     },
     {
       "name": "R_Norm.ped",
       "path": "data\/Decision\/Allowed\/R_Norm.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/R_Norm.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/R_Norm.ped"
     },
     {
       "name": "R_Tough.ped",
       "path": "data\/Decision\/Allowed\/R_Tough.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/R_Tough.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/R_Tough.ped"
     },
     {
       "name": "R_Weak.ped",
       "path": "data\/Decision\/Allowed\/R_Weak.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/R_Weak.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/R_Weak.ped"
     },
     {
       "name": "m_empty.ped",
       "path": "data\/Decision\/Allowed\/m_empty.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/m_empty.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/m_empty.ped"
     },
     {
       "name": "m_norm.ped",
       "path": "data\/Decision\/Allowed\/m_norm.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/m_norm.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/m_norm.ped"
     },
     {
       "name": "m_plyr.ped",
       "path": "data\/Decision\/Allowed\/m_plyr.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/m_plyr.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/m_plyr.ped"
     },
     {
       "name": "m_steal.ped",
       "path": "data\/Decision\/Allowed\/m_steal.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/m_steal.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/m_steal.ped"
     },
     {
       "name": "m_tough.ped",
       "path": "data\/Decision\/Allowed\/m_tough.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/m_tough.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/m_tough.ped"
     },
     {
       "name": "m_weak.ped",
       "path": "data\/Decision\/Allowed\/m_weak.ped",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/Allowed\/m_weak.ped"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/Allowed\/m_weak.ped"
     },
     {
       "name": "PedEvent.txt",
       "path": "data\/Decision\/PedEvent.txt",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/Decision\/PedEvent.txt"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/Decision\/PedEvent.txt"
     },
     {
       "name": "TouchDefaultPhone3x2.cfg",
       "path": "data\/TouchDefaultPhone3x2.cfg",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/TouchDefaultPhone3x2.cfg"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/TouchDefaultPhone3x2.cfg"
     },
     {
       "name": "TouchDefaultPhoneWidescreen.cfg",
       "path": "data\/TouchDefaultPhoneWidescreen.cfg",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/TouchDefaultPhoneWidescreen.cfg"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/TouchDefaultPhoneWidescreen.cfg"
     },
     {
       "name": "TouchDefaultTablet4x3.cfg",
       "path": "data\/TouchDefaultTablet4x3.cfg",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/TouchDefaultTablet4x3.cfg"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/TouchDefaultTablet4x3.cfg"
     },
     {
       "name": "TouchDefaultTabletWidescreen.cfg",
       "path": "data\/TouchDefaultTabletWidescreen.cfg",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/TouchDefaultTabletWidescreen.cfg"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/TouchDefaultTabletWidescreen.cfg"
     },
     {
       "name": "animgrp.dat",
       "path": "data\/animgrp.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/animgrp.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/animgrp.dat"
     },
     {
       "name": "ar_stats.dat",
       "path": "data\/ar_stats.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/ar_stats.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/ar_stats.dat"
     },
     {
       "name": "carcols.dat",
       "path": "data\/carcols.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/carcols.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/carcols.dat"
     },
     {
       "name": "cargrp.dat",
       "path": "data\/cargrp.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/cargrp.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/cargrp.dat"
     },
     {
       "name": "carmods.dat",
       "path": "data\/carmods.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/carmods.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/carmods.dat"
     },
     {
       "name": "clothes.dat",
       "path": "data\/clothes.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/clothes.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/clothes.dat"
     },
     {
       "name": "colorcycle.dat",
       "path": "data\/colorcycle.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/colorcycle.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/colorcycle.dat"
     },
     {
       "name": "default.dat",
       "path": "data\/default.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/default.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/default.dat"
     },
     {
       "name": "default.ide",
       "path": "data\/default.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/default.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/default.ide"
     },
     {
       "name": "fonts.dat",
       "path": "data\/fonts.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/fonts.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/fonts.dat"
     },
     {
       "name": "furnitur.dat",
       "path": "data\/furnitur.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/furnitur.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/furnitur.dat"
     },
     {
       "name": "gridref.dat",
       "path": "data\/gridref.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/gridref.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/gridref.dat"
     },
     {
       "name": "gta.dat",
       "path": "data\/gta.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/gta.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/gta.dat"
     },
     {
       "name": "handling.cfg",
       "path": "data\/handling.cfg",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/handling.cfg"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/handling.cfg"
     },
     {
       "name": "info.zon",
       "path": "data\/info.zon",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/info.zon"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/info.zon"
     },
     {
       "name": "map.zon",
       "path": "data\/map.zon",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/map.zon"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/map.zon"
     },
     {
       "name": "Audiozon.ipl",
       "path": "data\/maps\/Audiozon.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/Audiozon.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/Audiozon.ipl"
     },
     {
       "name": "LAe.ide",
       "path": "data\/maps\/LA\/LAe.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAe.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAe.ide"
     },
     {
       "name": "LAe.ipl",
       "path": "data\/maps\/LA\/LAe.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAe.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAe.ipl"
     },
     {
       "name": "LAe2.ide",
       "path": "data\/maps\/LA\/LAe2.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAe2.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAe2.ide"
     },
     {
       "name": "LAe2.ipl",
       "path": "data\/maps\/LA\/LAe2.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAe2.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAe2.ipl"
     },
     {
       "name": "LAhills.ide",
       "path": "data\/maps\/LA\/LAhills.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAhills.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAhills.ide"
     },
     {
       "name": "LAhills.ipl",
       "path": "data\/maps\/LA\/LAhills.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAhills.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAhills.ipl"
     },
     {
       "name": "LAn.ide",
       "path": "data\/maps\/LA\/LAn.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAn.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAn.ide"
     },
     {
       "name": "LAn.ipl",
       "path": "data\/maps\/LA\/LAn.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAn.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAn.ipl"
     },
     {
       "name": "LAn2.ide",
       "path": "data\/maps\/LA\/LAn2.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAn2.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAn2.ide"
     },
     {
       "name": "LAn2.ipl",
       "path": "data\/maps\/LA\/LAn2.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAn2.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAn2.ipl"
     },
     {
       "name": "LAs.ide",
       "path": "data\/maps\/LA\/LAs.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAs.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAs.ide"
     },
     {
       "name": "LAs.ipl",
       "path": "data\/maps\/LA\/LAs.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAs.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAs.ipl"
     },
     {
       "name": "LAs2.ide",
       "path": "data\/maps\/LA\/LAs2.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAs2.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAs2.ide"
     },
     {
       "name": "LAs2.ipl",
       "path": "data\/maps\/LA\/LAs2.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAs2.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAs2.ipl"
     },
     {
       "name": "LAw.ide",
       "path": "data\/maps\/LA\/LAw.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAw.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAw.ide"
     },
     {
       "name": "LAw.ipl",
       "path": "data\/maps\/LA\/LAw.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAw.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAw.ipl"
     },
     {
       "name": "LAw2.ide",
       "path": "data\/maps\/LA\/LAw2.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAw2.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAw2.ide"
     },
     {
       "name": "LAw2.ipl",
       "path": "data\/maps\/LA\/LAw2.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAw2.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAw2.ipl"
     },
     {
       "name": "LAxref.ide",
       "path": "data\/maps\/LA\/LAxref.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LAxref.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LAxref.ide"
     },
     {
       "name": "LaWn.ide",
       "path": "data\/maps\/LA\/LaWn.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LaWn.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LaWn.ide"
     },
     {
       "name": "LaWn.ipl",
       "path": "data\/maps\/LA\/LaWn.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/LA\/LaWn.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/LA\/LaWn.ipl"
     },
     {
       "name": "SFSe.ide",
       "path": "data\/maps\/SF\/SFSe.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/SF\/SFSe.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/SF\/SFSe.ide"
     },
     {
       "name": "SFSe.ipl",
       "path": "data\/maps\/SF\/SFSe.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/SF\/SFSe.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/SF\/SFSe.ipl"
     },
     {
       "name": "SFe.ide",
       "path": "data\/maps\/SF\/SFe.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/SF\/SFe.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/SF\/SFe.ide"
     },
     {
       "name": "SFe.ipl",
       "path": "data\/maps\/SF\/SFe.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/SF\/SFe.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/SF\/SFe.ipl"
     },
     {
       "name": "SFn.ide",
       "path": "data\/maps\/SF\/SFn.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/SF\/SFn.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/SF\/SFn.ide"
     },
     {
       "name": "SFn.ipl",
       "path": "data\/maps\/SF\/SFn.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/SF\/SFn.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/SF\/SFn.ipl"
     },
     {
       "name": "SFs.ide",
       "path": "data\/maps\/SF\/SFs.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/SF\/SFs.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/SF\/SFs.ide"
     },
     {
       "name": "SFs.ipl",
       "path": "data\/maps\/SF\/SFs.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/SF\/SFs.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/SF\/SFs.ipl"
     },
     {
       "name": "SFw.ide",
       "path": "data\/maps\/SF\/SFw.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/SF\/SFw.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/SF\/SFw.ide"
     },
     {
       "name": "SFw.ipl",
       "path": "data\/maps\/SF\/SFw.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/SF\/SFw.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/SF\/SFw.ipl"
     },
     {
       "name": "SFxref.ide",
       "path": "data\/maps\/SF\/SFxref.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/SF\/SFxref.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/SF\/SFxref.ide"
     },
     {
       "name": "countn2.ide",
       "path": "data\/maps\/country\/countn2.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/country\/countn2.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/country\/countn2.ide"
     },
     {
       "name": "countn2.ipl",
       "path": "data\/maps\/country\/countn2.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/country\/countn2.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/country\/countn2.ipl"
     },
     {
       "name": "countryN.ide",
       "path": "data\/maps\/country\/countryN.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/country\/countryN.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/country\/countryN.ide"
     },
     {
       "name": "countryN.ipl",
       "path": "data\/maps\/country\/countryN.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/country\/countryN.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/country\/countryN.ipl"
     },
     {
       "name": "countryS.ide",
       "path": "data\/maps\/country\/countryS.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/country\/countryS.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/country\/countryS.ide"
     },
     {
       "name": "countryS.ipl",
       "path": "data\/maps\/country\/countryS.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/country\/countryS.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/country\/countryS.ipl"
     },
     {
       "name": "countryW.ide",
       "path": "data\/maps\/country\/countryW.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/country\/countryW.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/country\/countryW.ide"
     },
     {
       "name": "countrye.ide",
       "path": "data\/maps\/country\/countrye.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/country\/countrye.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/country\/countrye.ide"
     },
     {
       "name": "countrye.ipl",
       "path": "data\/maps\/country\/countrye.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/country\/countrye.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/country\/countrye.ipl"
     },
     {
       "name": "countryw.ipl",
       "path": "data\/maps\/country\/countryw.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/country\/countryw.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/country\/countryw.ipl"
     },
     {
       "name": "counxref.ide",
       "path": "data\/maps\/country\/counxref.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/country\/counxref.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/country\/counxref.ide"
     },
     {
       "name": "cull.ipl",
       "path": "data\/maps\/cull.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/cull.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/cull.ipl"
     },
     {
       "name": "barriers.ide",
       "path": "data\/maps\/generic\/barriers.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/generic\/barriers.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/generic\/barriers.ide"
     },
     {
       "name": "dynamic.ide",
       "path": "data\/maps\/generic\/dynamic.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/generic\/dynamic.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/generic\/dynamic.ide"
     },
     {
       "name": "dynamic2.ide",
       "path": "data\/maps\/generic\/dynamic2.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/generic\/dynamic2.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/generic\/dynamic2.ide"
     },
     {
       "name": "multiobj.ide",
       "path": "data\/maps\/generic\/multiobj.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/generic\/multiobj.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/generic\/multiobj.ide"
     },
     {
       "name": "procobj.ide",
       "path": "data\/maps\/generic\/procobj.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/generic\/procobj.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/generic\/procobj.ide"
     },
     {
       "name": "vegepart.ide",
       "path": "data\/maps\/generic\/vegepart.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/generic\/vegepart.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/generic\/vegepart.ide"
     },
     {
       "name": "gen_int1.ide",
       "path": "data\/maps\/interior\/gen_int1.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_int1.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_int1.ide"
     },
     {
       "name": "gen_int1.ipl",
       "path": "data\/maps\/interior\/gen_int1.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_int1.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_int1.ipl"
     },
     {
       "name": "gen_int2.ide",
       "path": "data\/maps\/interior\/gen_int2.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_int2.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_int2.ide"
     },
     {
       "name": "gen_int2.ipl",
       "path": "data\/maps\/interior\/gen_int2.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_int2.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_int2.ipl"
     },
     {
       "name": "gen_int3.ide",
       "path": "data\/maps\/interior\/gen_int3.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_int3.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_int3.ide"
     },
     {
       "name": "gen_int3.ipl",
       "path": "data\/maps\/interior\/gen_int3.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_int3.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_int3.ipl"
     },
     {
       "name": "gen_int4.ide",
       "path": "data\/maps\/interior\/gen_int4.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_int4.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_int4.ide"
     },
     {
       "name": "gen_int4.ipl",
       "path": "data\/maps\/interior\/gen_int4.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_int4.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_int4.ipl"
     },
     {
       "name": "gen_int5.ide",
       "path": "data\/maps\/interior\/gen_int5.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_int5.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_int5.ide"
     },
     {
       "name": "gen_int5.ipl",
       "path": "data\/maps\/interior\/gen_int5.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_int5.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_int5.ipl"
     },
     {
       "name": "gen_intb.ide",
       "path": "data\/maps\/interior\/gen_intb.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_intb.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_intb.ide"
     },
     {
       "name": "gen_intb.ipl",
       "path": "data\/maps\/interior\/gen_intb.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/gen_intb.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/gen_intb.ipl"
     },
     {
       "name": "int_LA.ide",
       "path": "data\/maps\/interior\/int_LA.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/int_LA.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/int_LA.ide"
     },
     {
       "name": "int_LA.ipl",
       "path": "data\/maps\/interior\/int_LA.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/int_LA.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/int_LA.ipl"
     },
     {
       "name": "int_SF.ide",
       "path": "data\/maps\/interior\/int_SF.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/int_SF.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/int_SF.ide"
     },
     {
       "name": "int_SF.ipl",
       "path": "data\/maps\/interior\/int_SF.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/int_SF.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/int_SF.ipl"
     },
     {
       "name": "int_cont.ide",
       "path": "data\/maps\/interior\/int_cont.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/int_cont.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/int_cont.ide"
     },
     {
       "name": "int_cont.ipl",
       "path": "data\/maps\/interior\/int_cont.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/int_cont.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/int_cont.ipl"
     },
     {
       "name": "int_veg.ide",
       "path": "data\/maps\/interior\/int_veg.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/int_veg.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/int_veg.ide"
     },
     {
       "name": "int_veg.ipl",
       "path": "data\/maps\/interior\/int_veg.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/int_veg.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/int_veg.ipl"
     },
     {
       "name": "propext.ide",
       "path": "data\/maps\/interior\/propext.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/propext.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/propext.ide"
     },
     {
       "name": "props.ide",
       "path": "data\/maps\/interior\/props.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/props.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/props.ide"
     },
     {
       "name": "props2.ide",
       "path": "data\/maps\/interior\/props2.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/props2.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/props2.ide"
     },
     {
       "name": "savehous.ide",
       "path": "data\/maps\/interior\/savehous.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/savehous.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/savehous.ide"
     },
     {
       "name": "savehous.ipl",
       "path": "data\/maps\/interior\/savehous.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/savehous.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/savehous.ipl"
     },
     {
       "name": "stadint.ide",
       "path": "data\/maps\/interior\/stadint.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/stadint.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/stadint.ide"
     },
     {
       "name": "stadint.ipl",
       "path": "data\/maps\/interior\/stadint.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/interior\/stadint.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/interior\/stadint.ipl"
     },
     {
       "name": "leveldes.ide",
       "path": "data\/maps\/leveldes\/leveldes.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/leveldes\/leveldes.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/leveldes\/leveldes.ide"
     },
     {
       "name": "leveldes.ipl",
       "path": "data\/maps\/leveldes\/leveldes.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/leveldes\/leveldes.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/leveldes\/leveldes.ipl"
     },
     {
       "name": "levelmap.ide",
       "path": "data\/maps\/leveldes\/levelmap.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/leveldes\/levelmap.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/leveldes\/levelmap.ide"
     },
     {
       "name": "levelmap.ipl",
       "path": "data\/maps\/leveldes\/levelmap.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/leveldes\/levelmap.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/leveldes\/levelmap.ipl"
     },
     {
       "name": "levelxre.ide",
       "path": "data\/maps\/leveldes\/levelxre.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/leveldes\/levelxre.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/leveldes\/levelxre.ide"
     },
     {
       "name": "seabed.ide",
       "path": "data\/maps\/leveldes\/seabed.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/leveldes\/seabed.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/leveldes\/seabed.ide"
     },
     {
       "name": "seabed.ipl",
       "path": "data\/maps\/leveldes\/seabed.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/leveldes\/seabed.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/leveldes\/seabed.ipl"
     },
     {
       "name": "occlu.ipl",
       "path": "data\/maps\/occlu.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/occlu.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/occlu.ipl"
     },
     {
       "name": "occluLA.ipl",
       "path": "data\/maps\/occluLA.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/occluLA.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/occluLA.ipl"
     },
     {
       "name": "occluint.ipl",
       "path": "data\/maps\/occluint.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/occluint.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/occluint.ipl"
     },
     {
       "name": "occlusf.ipl",
       "path": "data\/maps\/occlusf.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/occlusf.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/occlusf.ipl"
     },
     {
       "name": "occluveg.ipl",
       "path": "data\/maps\/occluveg.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/occluveg.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/occluveg.ipl"
     },
     {
       "name": "paths.ipl",
       "path": "data\/maps\/paths.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/paths.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/paths.ipl"
     },
     {
       "name": "paths2.ipl",
       "path": "data\/maps\/paths2.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/paths2.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/paths2.ipl"
     },
     {
       "name": "paths3.ipl",
       "path": "data\/maps\/paths3.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/paths3.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/paths3.ipl"
     },
     {
       "name": "paths4.ipl",
       "path": "data\/maps\/paths4.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/paths4.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/paths4.ipl"
     },
     {
       "name": "paths5.ipl",
       "path": "data\/maps\/paths5.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/paths5.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/paths5.ipl"
     },
     {
       "name": "tunnels.ipl",
       "path": "data\/maps\/tunnels.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/tunnels.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/tunnels.ipl"
     },
     {
       "name": "VegasN.ide",
       "path": "data\/maps\/vegas\/VegasN.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/vegas\/VegasN.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/vegas\/VegasN.ide"
     },
     {
       "name": "VegasS.ide",
       "path": "data\/maps\/vegas\/VegasS.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/vegas\/VegasS.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/vegas\/VegasS.ide"
     },
     {
       "name": "VegasW.ide",
       "path": "data\/maps\/vegas\/VegasW.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/vegas\/VegasW.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/vegas\/VegasW.ide"
     },
     {
       "name": "vegasE.ide",
       "path": "data\/maps\/vegas\/vegasE.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/vegas\/vegasE.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/vegas\/vegasE.ide"
     },
     {
       "name": "vegasE.ipl",
       "path": "data\/maps\/vegas\/vegasE.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/vegas\/vegasE.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/vegas\/vegasE.ipl"
     },
     {
       "name": "vegasN.ipl",
       "path": "data\/maps\/vegas\/vegasN.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/vegas\/vegasN.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/vegas\/vegasN.ipl"
     },
     {
       "name": "vegasS.ipl",
       "path": "data\/maps\/vegas\/vegasS.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/vegas\/vegasS.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/vegas\/vegasS.ipl"
     },
     {
       "name": "vegasW.ipl",
       "path": "data\/maps\/vegas\/vegasW.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/vegas\/vegasW.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/vegas\/vegasW.ipl"
     },
     {
       "name": "vegaxref.ide",
       "path": "data\/maps\/vegas\/vegaxref.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/vegas\/vegaxref.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/vegas\/vegaxref.ide"
     },
     {
       "name": "vegaxref.ipl",
       "path": "data\/maps\/vegas\/vegaxref.ipl",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/vegas\/vegaxref.ipl"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/vegas\/vegaxref.ipl"
     },
     {
       "name": "veh_mods.ide",
       "path": "data\/maps\/veh_mods\/veh_mods.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/maps\/veh_mods\/veh_mods.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/maps\/veh_mods\/veh_mods.ide"
     },
     {
       "name": "melee.dat",
       "path": "data\/melee.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/melee.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/melee.dat"
     },
     {
       "name": "object.dat",
       "path": "data\/object.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/object.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/object.dat"
     },
     {
       "name": "ROADBLOX.DAT",
       "path": "data\/paths\/ROADBLOX.DAT",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/paths\/ROADBLOX.DAT"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/paths\/ROADBLOX.DAT"
     },
     {
       "name": "carrec.img",
       "path": "data\/paths\/carrec.img",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/paths\/carrec.img"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/paths\/carrec.img"
     },
     {
       "name": "tracks.dat",
       "path": "data\/paths\/tracks.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/paths\/tracks.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/paths\/tracks.dat"
     },
     {
       "name": "tracks2.dat",
       "path": "data\/paths\/tracks2.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/paths\/tracks2.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/paths\/tracks2.dat"
     },
     {
       "name": "tracks3.dat",
       "path": "data\/paths\/tracks3.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/paths\/tracks3.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/paths\/tracks3.dat"
     },
     {
       "name": "tracks4.dat",
       "path": "data\/paths\/tracks4.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/paths\/tracks4.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/paths\/tracks4.dat"
     },
     {
       "name": "ped.dat",
       "path": "data\/ped.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/ped.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/ped.dat"
     },
     {
       "name": "pedgrp.dat",
       "path": "data\/pedgrp.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/pedgrp.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/pedgrp.dat"
     },
     {
       "name": "peds.ide",
       "path": "data\/peds.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/peds.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/peds.ide"
     },
     {
       "name": "pedstats.dat",
       "path": "data\/pedstats.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/pedstats.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/pedstats.dat"
     },
     {
       "name": "plants.dat",
       "path": "data\/plants.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/plants.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/plants.dat"
     },
     {
       "name": "popcycle.dat",
       "path": "data\/popcycle.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/popcycle.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/popcycle.dat"
     },
     {
       "name": "procobj.dat",
       "path": "data\/procobj.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/procobj.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/procobj.dat"
     },
     {
       "name": "shopping.dat",
       "path": "data\/shopping.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/shopping.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/shopping.dat"
     },
     {
       "name": "statdisp.dat",
       "path": "data\/statdisp.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/statdisp.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/statdisp.dat"
     },
     {
       "name": "surface.dat",
       "path": "data\/surface.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/surface.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/surface.dat"
     },
     {
       "name": "surfaud.dat",
       "path": "data\/surfaud.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/surfaud.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/surfaud.dat"
     },
     {
       "name": "surfinfo.dat",
       "path": "data\/surfinfo.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/surfinfo.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/surfinfo.dat"
     },
     {
       "name": "timecyc.dat",
       "path": "data\/timecyc.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/timecyc.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/timecyc.dat"
     },
     {
       "name": "txdcut.ide",
       "path": "data\/txdcut.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/txdcut.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/txdcut.ide"
     },
     {
       "name": "vehicles.ide",
       "path": "data\/vehicles.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/vehicles.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/vehicles.ide"
     },
     {
       "name": "water.dat",
       "path": "data\/water.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/water.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/water.dat"
     },
     {
       "name": "water1.dat",
       "path": "data\/water1.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/water1.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/water1.dat"
     },
     {
       "name": "weapon.dat",
       "path": "data\/weapon.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/data\/weapon.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/data\/weapon.dat"
     },
     {
       "name": "arial_bold.ttf",
       "path": "fonts\/arial_bold.ttf",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/fonts\/arial_bold.ttf"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/fonts\/arial_bold.ttf"
     },
     {
       "name": "gtaweap3.ttf",
       "path": "fonts\/gtaweap3.ttf",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/fonts\/gtaweap3.ttf"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/fonts\/gtaweap3.ttf"
     },
     {
       "name": "server.ini",
       "path": "SAMP\/server.ini",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/server.ini"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/server.ini"
     },
     {
       "name": "settings.ini",
       "path": "SAMP\/settings.ini",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/settings.ini"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/settings.ini"
     },
     {
       "name": "SAMP.ide",
       "path": "SAMP\/SAMP.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/SAMP.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/SAMP.ide"
     },
     {
       "name": "TIMECYC.DAT",
       "path": "SAMP\/TIMECYC.DAT",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/TIMECYC.DAT"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/TIMECYC.DAT"
     },
     {
       "name": "WEAPON.dat",
       "path": "SAMP\/WEAPON.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/WEAPON.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/WEAPON.dat"
     },
     {
       "name": "gta.dat",
       "path": "SAMP\/gta.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/gta.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/gta.dat"
     },
     {
       "name": "handling.cfg",
       "path": "SAMP\/handling.cfg",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/handling.cfg"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/handling.cfg"
     },
     {
       "name": "main.scm",
       "path": "SAMP\/main.scm",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/main.scm"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/main.scm"
     },
     {
       "name": "peds.ide",
       "path": "SAMP\/peds.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/peds.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/peds.ide"
     },
     {
       "name": "script.img",
       "path": "SAMP\/script.img",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/script.img"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/script.img"
     },
     {
       "name": "tracks2.dat",
       "path": "SAMP\/tracks2.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/tracks2.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/tracks2.dat"
     },
     {
       "name": "tracks4.dat",
       "path": "SAMP\/tracks4.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/tracks4.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/tracks4.dat"
     },
     {
       "name": "vehicles.ide",
       "path": "SAMP\/vehicles.ide",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/SAMP\/vehicles.ide"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/SAMP\/vehicles.ide"
     },
     {
       "name": "SAMPCOL.img",
       "path": "texdb\/SAMPCOL.img",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/SAMPCOL.img"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/SAMPCOL.img"
     },
     {
       "name": "samp.dxt.dat",
       "path": "texdb\/samp\/samp.dxt.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.dxt.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.dxt.dat"
     },
     {
       "name": "samp.dxt.tmb",
       "path": "texdb\/samp\/samp.dxt.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.dxt.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.dxt.tmb"
     },
     {
       "name": "samp.dxt.toc",
       "path": "texdb\/samp\/samp.dxt.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.dxt.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.dxt.toc"
     },
     {
       "name": "samp.etc.dat",
       "path": "texdb\/samp\/samp.etc.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.etc.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.etc.dat"
     },
     {
       "name": "samp.etc.tmb",
       "path": "texdb\/samp\/samp.etc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.etc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.etc.tmb"
     },
     {
       "name": "samp.etc.toc",
       "path": "texdb\/samp\/samp.etc.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.etc.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.etc.toc"
     },
     {
       "name": "samp.pvr.dat",
       "path": "texdb\/samp\/samp.pvr.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.pvr.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.pvr.dat"
     },
     {
       "name": "samp.pvr.tmb",
       "path": "texdb\/samp\/samp.pvr.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.pvr.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.pvr.tmb"
     },
     {
       "name": "samp.pvr.toc",
       "path": "texdb\/samp\/samp.pvr.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.pvr.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.pvr.toc"
     },
     {
       "name": "samp.txt",
       "path": "texdb\/samp\/samp.txt",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.txt"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.txt"
     },
     {
       "name": "samp.unc.dat",
       "path": "texdb\/samp\/samp.unc.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.unc.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.unc.dat"
     },
     {
       "name": "samp.unc.tmb",
       "path": "texdb\/samp\/samp.unc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.unc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.unc.tmb"
     },
     {
       "name": "samp.unc.toc",
       "path": "texdb\/samp\/samp.unc.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp\/samp.unc.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp\/samp.unc.toc"
     },
     {
       "name": "samp.img",
       "path": "texdb\/samp.img",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/samp.img"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/samp.img"
     },
     {
       "name": "peds.col",
       "path": "models\/coll\/peds.col",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/models\/coll\/peds.col"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/models\/coll\/peds.col"
     },
     {
       "name": "vehicles.col",
       "path": "models\/coll\/vehicles.col",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/models\/coll\/vehicles.col"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/models\/coll\/vehicles.col"
     },
     {
       "name": "weapons.col",
       "path": "models\/coll\/weapons.col",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/models\/coll\/weapons.col"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/models\/coll\/weapons.col"
     },
     {
       "name": "effects.fxp",
       "path": "models\/effects.fxp",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/models\/effects.fxp"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/models\/effects.fxp"
     },
     {
       "name": "stream.ini",
       "path": "stream.ini",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/stream.ini"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/stream.ini"
     },
     {
       "name": "cutscene.dxt.dat",
       "path": "texdb\/cutscene\/cutscene.dxt.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene\/cutscene.dxt.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene\/cutscene.dxt.dat"
     },
     {
       "name": "cutscene.dxt.tmb",
       "path": "texdb\/cutscene\/cutscene.dxt.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene\/cutscene.dxt.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene\/cutscene.dxt.tmb"
     },
     {
       "name": "cutscene.dxt.toc",
       "path": "texdb\/cutscene\/cutscene.dxt.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene\/cutscene.dxt.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene\/cutscene.dxt.toc"
     },
     {
       "name": "cutscene.etc.dat",
       "path": "texdb\/cutscene\/cutscene.etc.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene\/cutscene.etc.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene\/cutscene.etc.dat"
     },
     {
       "name": "cutscene.etc.tmb",
       "path": "texdb\/cutscene\/cutscene.etc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene\/cutscene.etc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene\/cutscene.etc.tmb"
     },
     {
       "name": "cutscene.etc.toc",
       "path": "texdb\/cutscene\/cutscene.etc.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene\/cutscene.etc.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene\/cutscene.etc.toc"
     },
     {
       "name": "cutscene.pvr.dat",
       "path": "texdb\/cutscene\/cutscene.pvr.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene\/cutscene.pvr.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene\/cutscene.pvr.dat"
     },
     {
       "name": "cutscene.pvr.tmb",
       "path": "texdb\/cutscene\/cutscene.pvr.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene\/cutscene.pvr.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene\/cutscene.pvr.tmb"
     },
     {
       "name": "cutscene.pvr.toc",
       "path": "texdb\/cutscene\/cutscene.pvr.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene\/cutscene.pvr.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene\/cutscene.pvr.toc"
     },
     {
       "name": "cutscene.txt",
       "path": "texdb\/cutscene\/cutscene.txt",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene\/cutscene.txt"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene\/cutscene.txt"
     },
     {
       "name": "cutscene.unc.tmb",
       "path": "texdb\/cutscene\/cutscene.unc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene\/cutscene.unc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene\/cutscene.unc.tmb"
     },
     {
       "name": "cutscene.img",
       "path": "texdb\/cutscene.img",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/cutscene.img"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/cutscene.img"
     },
     {
       "name": "gta3.dxt.dat",
       "path": "texdb\/gta3\/gta3.dxt.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3\/gta3.dxt.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3\/gta3.dxt.dat"
     },
     {
       "name": "gta3.dxt.tmb",
       "path": "texdb\/gta3\/gta3.dxt.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3\/gta3.dxt.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3\/gta3.dxt.tmb"
     },
     {
       "name": "gta3.dxt.toc",
       "path": "texdb\/gta3\/gta3.dxt.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3\/gta3.dxt.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3\/gta3.dxt.toc"
     },
     {
       "name": "gta3.etc.dat",
       "path": "texdb\/gta3\/gta3.etc.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3\/gta3.etc.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3\/gta3.etc.dat"
     },
     {
       "name": "gta3.etc.tmb",
       "path": "texdb\/gta3\/gta3.etc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3\/gta3.etc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3\/gta3.etc.tmb"
     },
     {
       "name": "gta3.etc.toc",
       "path": "texdb\/gta3\/gta3.etc.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3\/gta3.etc.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3\/gta3.etc.toc"
     },
     {
       "name": "gta3.pvr.dat",
       "path": "texdb\/gta3\/gta3.pvr.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3\/gta3.pvr.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3\/gta3.pvr.dat"
     },
     {
       "name": "gta3.pvr.tmb",
       "path": "texdb\/gta3\/gta3.pvr.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3\/gta3.pvr.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3\/gta3.pvr.tmb"
     },
     {
       "name": "gta3.pvr.toc",
       "path": "texdb\/gta3\/gta3.pvr.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3\/gta3.pvr.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3\/gta3.pvr.toc"
     },
     {
       "name": "gta3.txt",
       "path": "texdb\/gta3\/gta3.txt",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3\/gta3.txt"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3\/gta3.txt"
     },
     {
       "name": "gta3.unc.tmb",
       "path": "texdb\/gta3\/gta3.unc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3\/gta3.unc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3\/gta3.unc.tmb"
     },
     {
       "name": "gta3.img",
       "path": "texdb\/gta3.img",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta3.img"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta3.img"
     },
     {
       "name": "gta_int.dxt.dat",
       "path": "texdb\/gta_int\/gta_int.dxt.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int\/gta_int.dxt.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int\/gta_int.dxt.dat"
     },
     {
       "name": "gta_int.dxt.tmb",
       "path": "texdb\/gta_int\/gta_int.dxt.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int\/gta_int.dxt.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int\/gta_int.dxt.tmb"
     },
     {
       "name": "gta_int.dxt.toc",
       "path": "texdb\/gta_int\/gta_int.dxt.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int\/gta_int.dxt.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int\/gta_int.dxt.toc"
     },
     {
       "name": "gta_int.etc.dat",
       "path": "texdb\/gta_int\/gta_int.etc.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int\/gta_int.etc.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int\/gta_int.etc.dat"
     },
     {
       "name": "gta_int.etc.tmb",
       "path": "texdb\/gta_int\/gta_int.etc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int\/gta_int.etc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int\/gta_int.etc.tmb"
     },
     {
       "name": "gta_int.etc.toc",
       "path": "texdb\/gta_int\/gta_int.etc.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int\/gta_int.etc.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int\/gta_int.etc.toc"
     },
     {
       "name": "gta_int.pvr.dat",
       "path": "texdb\/gta_int\/gta_int.pvr.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int\/gta_int.pvr.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int\/gta_int.pvr.dat"
     },
     {
       "name": "gta_int.pvr.tmb",
       "path": "texdb\/gta_int\/gta_int.pvr.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int\/gta_int.pvr.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int\/gta_int.pvr.tmb"
     },
     {
       "name": "gta_int.pvr.toc",
       "path": "texdb\/gta_int\/gta_int.pvr.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int\/gta_int.pvr.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int\/gta_int.pvr.toc"
     },
     {
       "name": "gta_int.txt",
       "path": "texdb\/gta_int\/gta_int.txt",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int\/gta_int.txt"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int\/gta_int.txt"
     },
     {
       "name": "gta_int.unc.tmb",
       "path": "texdb\/gta_int\/gta_int.unc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int\/gta_int.unc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int\/gta_int.unc.tmb"
     },
     {
       "name": "gta_int.img",
       "path": "texdb\/gta_int.img",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/gta_int.img"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/gta_int.img"
     },
     {
       "name": "menu.dxt.dat",
       "path": "texdb\/menu\/menu.dxt.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/menu\/menu.dxt.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/menu\/menu.dxt.dat"
     },
     {
       "name": "menu.dxt.tmb",
       "path": "texdb\/menu\/menu.dxt.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/menu\/menu.dxt.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/menu\/menu.dxt.tmb"
     },
     {
       "name": "menu.dxt.toc",
       "path": "texdb\/menu\/menu.dxt.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/menu\/menu.dxt.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/menu\/menu.dxt.toc"
     },
     {
       "name": "menu.etc.dat",
       "path": "texdb\/menu\/menu.etc.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/menu\/menu.etc.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/menu\/menu.etc.dat"
     },
     {
       "name": "menu.etc.tmb",
       "path": "texdb\/menu\/menu.etc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/menu\/menu.etc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/menu\/menu.etc.tmb"
     },
     {
       "name": "menu.etc.toc",
       "path": "texdb\/menu\/menu.etc.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/menu\/menu.etc.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/menu\/menu.etc.toc"
     },
     {
       "name": "menu.pvr.dat",
       "path": "texdb\/menu\/menu.pvr.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/menu\/menu.pvr.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/menu\/menu.pvr.dat"
     },
     {
       "name": "menu.pvr.tmb",
       "path": "texdb\/menu\/menu.pvr.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/menu\/menu.pvr.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/menu\/menu.pvr.tmb"
     },
     {
       "name": "menu.pvr.toc",
       "path": "texdb\/menu\/menu.pvr.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/menu\/menu.pvr.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/menu\/menu.pvr.toc"
     },
     {
       "name": "menu.txt",
       "path": "texdb\/menu\/menu.txt",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/menu\/menu.txt"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/menu\/menu.txt"
     },
     {
       "name": "menu.unc.tmb",
       "path": "texdb\/menu\/menu.unc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/menu\/menu.unc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/menu\/menu.unc.tmb"
     },
     {
       "name": "mobile.dxt.dat",
       "path": "texdb\/mobile\/mobile.dxt.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/mobile\/mobile.dxt.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/mobile\/mobile.dxt.dat"
     },
     {
       "name": "mobile.dxt.tmb",
       "path": "texdb\/mobile\/mobile.dxt.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/mobile\/mobile.dxt.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/mobile\/mobile.dxt.tmb"
     },
     {
       "name": "mobile.dxt.toc",
       "path": "texdb\/mobile\/mobile.dxt.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/mobile\/mobile.dxt.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/mobile\/mobile.dxt.toc"
     },
     {
       "name": "mobile.etc.dat",
       "path": "texdb\/mobile\/mobile.etc.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/mobile\/mobile.etc.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/mobile\/mobile.etc.dat"
     },
     {
       "name": "mobile.etc.tmb",
       "path": "texdb\/mobile\/mobile.etc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/mobile\/mobile.etc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/mobile\/mobile.etc.tmb"
     },
     {
       "name": "mobile.etc.toc",
       "path": "texdb\/mobile\/mobile.etc.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/mobile\/mobile.etc.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/mobile\/mobile.etc.toc"
     },
     {
       "name": "mobile.pvr.dat",
       "path": "texdb\/mobile\/mobile.pvr.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/mobile\/mobile.pvr.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/mobile\/mobile.pvr.dat"
     },
     {
       "name": "mobile.pvr.tmb",
       "path": "texdb\/mobile\/mobile.pvr.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/mobile\/mobile.pvr.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/mobile\/mobile.pvr.tmb"
     },
     {
       "name": "mobile.pvr.toc",
       "path": "texdb\/mobile\/mobile.pvr.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/mobile\/mobile.pvr.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/mobile\/mobile.pvr.toc"
     },
     {
       "name": "mobile.txt",
       "path": "texdb\/mobile\/mobile.txt",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/mobile\/mobile.txt"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/mobile\/mobile.txt"
     },
     {
       "name": "mobile.unc.tmb",
       "path": "texdb\/mobile\/mobile.unc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/mobile\/mobile.unc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/mobile\/mobile.unc.tmb"
     },
     {
       "name": "player.pvr.dat",
       "path": "texdb\/player\/player.pvr.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/player\/player.pvr.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/player\/player.pvr.dat"
     },
     {
       "name": "player.pvr.tmb",
       "path": "texdb\/player\/player.pvr.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/player\/player.pvr.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/player\/player.pvr.tmb"
     },
     {
       "name": "player.pvr.toc",
       "path": "texdb\/player\/player.pvr.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/player\/player.pvr.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/player\/player.pvr.toc"
     },
     {
       "name": "player.txt",
       "path": "texdb\/player\/player.txt",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/player\/player.txt"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/player\/player.txt"
     },
     {
       "name": "player.img",
       "path": "texdb\/player.img",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/player.img"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/player.img"
     },
     {
       "name": "playerhi.pvr.dat",
       "path": "texdb\/playerhi\/playerhi.pvr.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/playerhi\/playerhi.pvr.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/playerhi\/playerhi.pvr.dat"
     },
     {
       "name": "playerhi.pvr.tmb",
       "path": "texdb\/playerhi\/playerhi.pvr.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/playerhi\/playerhi.pvr.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/playerhi\/playerhi.pvr.tmb"
     },
     {
       "name": "playerhi.pvr.toc",
       "path": "texdb\/playerhi\/playerhi.pvr.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/playerhi\/playerhi.pvr.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/playerhi\/playerhi.pvr.toc"
     },
     {
       "name": "playerhi.txt",
       "path": "texdb\/playerhi\/playerhi.txt",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/playerhi\/playerhi.txt"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/playerhi\/playerhi.txt"
     },
     {
       "name": "txd.360.dat",
       "path": "texdb\/txd\/txd.360.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.360.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.360.dat"
     },
     {
       "name": "txd.360.tmb",
       "path": "texdb\/txd\/txd.360.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.360.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.360.tmb"
     },
     {
       "name": "txd.360.toc",
       "path": "texdb\/txd\/txd.360.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.360.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.360.toc"
     },
     {
       "name": "txd.dxt.dat",
       "path": "texdb\/txd\/txd.dxt.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.dxt.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.dxt.dat"
     },
     {
       "name": "txd.dxt.tmb",
       "path": "texdb\/txd\/txd.dxt.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.dxt.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.dxt.tmb"
     },
     {
       "name": "txd.dxt.toc",
       "path": "texdb\/txd\/txd.dxt.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.dxt.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.dxt.toc"
     },
     {
       "name": "txd.etc.dat",
       "path": "texdb\/txd\/txd.etc.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.etc.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.etc.dat"
     },
     {
       "name": "txd.etc.tmb",
       "path": "texdb\/txd\/txd.etc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.etc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.etc.tmb"
     },
     {
       "name": "txd.etc.toc",
       "path": "texdb\/txd\/txd.etc.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.etc.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.etc.toc"
     },
     {
       "name": "txd.pvr.dat",
       "path": "texdb\/txd\/txd.pvr.dat",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.pvr.dat"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.pvr.dat"
     },
     {
       "name": "txd.pvr.tmb",
       "path": "texdb\/txd\/txd.pvr.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.pvr.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.pvr.tmb"
     },
     {
       "name": "txd.pvr.toc",
       "path": "texdb\/txd\/txd.pvr.toc",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.pvr.toc"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.pvr.toc"
     },
     {
       "name": "txd.txt",
       "path": "texdb\/txd\/txd.txt",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.txt"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.txt"
     },
     {
       "name": "txd.unc.tmb",
       "path": "texdb\/txd\/txd.unc.tmb",
-      "url": "https:\/\/sampapk.ml\/samp_client\/full_data\/texdb\/txd\/txd.unc.tmb"
+      "url": "https:\/\/img.playvicio.online\/samp_mobile\/full_data\/files\/texdb\/txd\/txd.unc.tmb"
     }
   ]
 }
