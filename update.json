@@ -5,6 +5,6 @@
     "game_version": "2.0",
     "game_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/app-game-release.apk",
     
-    "full_data_url": "https://raw.githubusercontent.com/ALYNADV/samp_mobile_client/main/full_data_list.json",
-    "lite_data_url": "https://raw.githubusercontent.com/ALYNADV/samp_mobile_client/main/lite_data_list.json"
+    "full_data_url": "https://img.playvicio.online/samp_mobile/full_data/list.php",
+    "lite_data_url": ""
 }
