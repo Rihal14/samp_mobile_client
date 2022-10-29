@@ -5,6 +5,6 @@
     "game_version": "2.0",
     "game_url": "",
     
-    "full_data_url": "http://45.136.253.158/download/full_data/list.json",
+    "full_data_url": "https://45.136.253.158/download/full_data/list.json",
     "lite_data_url": ""
 }
