@@ -6,5 +6,10 @@
     "game_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/app-game-release.apk",
     
     "full_data_url": "https://3.138.137.152/samp_mobile/full_data/list.json",
-    "lite_data_url": ""
+    "lite_data_url": "",
+
+    "data_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/data.zip",
+    
+    "main_obb_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/main.8.ro.samp_mobile.game.obb",
+    "patch_obb_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/patch.8.ro.samp_mobile.game.obb"
 }
