@@ -1,8 +1,8 @@
 {
-    "launcher_version": "2.0",
+    "launcher_version": "3.0",
     "launcher_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/app-launcher-release.apk",
     
-    "game_version": "2.0",
+    "game_version": "3.0",
     "game_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/app-game-release.apk",
     
     "full_data_url": "",
