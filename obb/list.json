@@ -1,0 +1,16 @@
+{
+    "files": [
+        {
+            "name": "main.8.ro.samp_mobile.game.obb",
+            "path": "main.8.ro.samp_mobile.game.obb",
+            "size": "123",
+            "url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/main.8.ro.samp_mobile.game.obb"
+        },
+        {
+            "name": "patch.8.ro.samp_mobile.game.obb",
+            "path": "patch.8.ro.samp_mobile.game.obb",
+            "size": "123",
+            "url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/patch.8.ro.samp_mobile.game.obb"
+        }
+    ]
+}
