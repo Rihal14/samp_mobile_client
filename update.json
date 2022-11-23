@@ -9,7 +9,5 @@
     "lite_data_url": "",
 
     "data_url": "https://raw.githubusercontent.com/ALYNADV/samp_mobile_client/main/data/list.json",
-    
-    "main_obb_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/main.8.ro.samp_mobile.game.obb",
-    "patch_obb_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/patch.8.ro.samp_mobile.game.obb"
+    "obb_url": "https://raw.githubusercontent.com/ALYNADV/samp_mobile_client/main/obb/list.json"
 }
