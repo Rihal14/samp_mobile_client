@@ -1,10 +1,10 @@
 {
     "game_version": "4.0",
-    "game_url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/samp-mobile-launcher/app-game-release.apk",
+    "game_url": "https://alynadv.github.io/samp_mobile_client/game/app-game-release.apk",
     
-    "full_data_url": "",
+    "full_data_url": "https://alynadv.github.io/samp_mobile_client/full_data/list.json",
     "lite_data_url": "",
 
-    "data_url": "https://raw.githubusercontent.com/ALYNADV/samp_mobile_client/main/data/list.json",
-    "obb_url": "https://raw.githubusercontent.com/ALYNADV/samp_mobile_client/main/obb/list.json"
+    "data_url": "https://alynadv.github.io/samp_mobile_client/data/list.json",
+    "obb_url": "https://alynadv.github.io/samp_mobile_client/obb/list.json"
 }
