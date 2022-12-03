@@ -10,7 +10,7 @@
             "name": "cuts.img",
             "path": "anim/cuts.img",
             "size": "270096384",
-            "url": "https://github.com/ALYNADV/samp_mobile_client/raw/main/full_data/files/anim/cuts.img"
+            "url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/full_data/cuts.img"
         },
         {
             "name": "ped.ifp",
@@ -148,7 +148,7 @@
             "name": "SPC_GA.osw",
             "path": "audio/SFX/SPC_GA.osw",
             "size": "358311715",
-            "url": "https://github.com/ALYNADV/samp_mobile_client/raw/main/full_data/files/audio/SFX/SPC_GA.osw"
+            "url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/full_data/SPC_GA.osw"
         },
         {
             "name": "SPC_GA.osw.idx",
@@ -160,7 +160,7 @@
             "name": "SPC_NA.osw",
             "path": "audio/SFX/SPC_NA.osw",
             "size": "139343191",
-            "url": "https://github.com/ALYNADV/samp_mobile_client/raw/main/full_data/files/audio/SFX/SPC_NA.osw"
+            "url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/full_data/SPC_NA.osw"
         },
         {
             "name": "SPC_NA.osw.idx",
@@ -1600,7 +1600,7 @@
             "name": "gta3.dxt.dat",
             "path": "texdb/gta3/gta3.dxt.dat",
             "size": "185311596",
-            "url": "https://github.com/ALYNADV/samp_mobile_client/raw/main/full_data/files/texdb/gta3/gta3.dxt.dat"
+            "url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/full_data/gta3.dxt.dat"
         },
         {
             "name": "gta3.dxt.tmb",
@@ -1618,7 +1618,7 @@
             "name": "gta3.etc.dat",
             "path": "texdb/gta3/gta3.etc.dat",
             "size": "185725552",
-            "url": "https://github.com/ALYNADV/samp_mobile_client/raw/main/full_data/files/texdb/gta3/gta3.etc.dat"
+            "url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/full_data/gta3.etc.dat"
         },
         {
             "name": "gta3.etc.tmb",
@@ -1636,7 +1636,7 @@
             "name": "gta3.pvr.dat",
             "path": "texdb/gta3/gta3.pvr.dat",
             "size": "115205762",
-            "url": "https://github.com/ALYNADV/samp_mobile_client/raw/main/full_data/files/texdb/gta3/gta3.pvr.dat"
+            "url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/full_data/gta3.pvr.dat"
         },
         {
             "name": "gta3.pvr.tmb",
@@ -1666,7 +1666,7 @@
             "name": "gta3.img",
             "path": "texdb/gta3.img",
             "size": "283521024",
-            "url": "https://github.com/ALYNADV/samp_mobile_client/raw/main/full_data/files/texdb/gta3.img"
+            "url": "https://github.com/ALYNADV/samp_mobile_client/releases/download/full_data/gta3.img"
         },
         {
             "name": "gta_int.dxt.dat",
