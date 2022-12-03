@@ -1541,4 +1541,5 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "voiceactive" width=256 height=256 img=92465a59 alphamode=2
 "voicemuted" width=256 height=256 img=ca03403b alphamode=2
 "speaker" width=64 height=64 img=d50677b4 alphamode=2
-"samp_logo" width=256 height=256 img=c34e9a88 camnorm=1 alphamode=2
+"sa_logo" "affiliate=samp_logo"
+"samp_logo" width=1080 height=1080 img=6676db5 camnorm=1 mipmode=0 alphamode=2
