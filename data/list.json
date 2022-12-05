@@ -87,7 +87,7 @@
         {
             "name": "samp.dxt.dat",
             "path": "texdb/samp/samp.dxt.dat",
-            "size": "22341548",
+            "size": "22808878",
             "url": "https://alynadv.github.io/samp_mobile_client/data/files/texdb/samp/samp.dxt.dat"
         },
         {
@@ -99,13 +99,13 @@
         {
             "name": "samp.dxt.toc",
             "path": "texdb/samp/samp.dxt.toc",
-            "size": "6176",
+            "size": "6180",
             "url": "https://alynadv.github.io/samp_mobile_client/data/files/texdb/samp/samp.dxt.toc"
         },
         {
             "name": "samp.etc.dat",
             "path": "texdb/samp/samp.etc.dat",
-            "size": "33476356",
+            "size": "33943686",
             "url": "https://alynadv.github.io/samp_mobile_client/data/files/texdb/samp/samp.etc.dat"
         },
         {
@@ -117,13 +117,13 @@
         {
             "name": "samp.etc.toc",
             "path": "texdb/samp/samp.etc.toc",
-            "size": "6176",
+            "size": "6180",
             "url": "https://alynadv.github.io/samp_mobile_client/data/files/texdb/samp/samp.etc.toc"
         },
         {
             "name": "samp.pvr.dat",
             "path": "texdb/samp/samp.pvr.dat",
-            "size": "14090948",
+            "size": "14558278",
             "url": "https://alynadv.github.io/samp_mobile_client/data/files/texdb/samp/samp.pvr.dat"
         },
         {
@@ -135,13 +135,13 @@
         {
             "name": "samp.pvr.toc",
             "path": "texdb/samp/samp.pvr.toc",
-            "size": "6176",
+            "size": "6180",
             "url": "https://alynadv.github.io/samp_mobile_client/data/files/texdb/samp/samp.pvr.toc"
         },
         {
             "name": "samp.txt",
             "path": "texdb/samp/samp.txt",
-            "size": "89594",
+            "size": "89637",
             "url": "https://alynadv.github.io/samp_mobile_client/data/files/texdb/samp/samp.txt"
         },
         {
@@ -173,6 +173,12 @@
             "path": "texdb/SAMPCOL.img",
             "size": "4253696",
             "url": "https://alynadv.github.io/samp_mobile_client/data/files/texdb/SAMPCOL.img"
+        },
+        {
+            "name": "vehicleAudioSettings.cfg",
+            "path": "vehicleAudioSettings.cfg",
+            "size": "22642",
+            "url": "https://alynadv.github.io/samp_mobile_client/data/files/vehicleAudioSettings.cfg"
         }
     ]
 }
