@@ -1,9 +1,6 @@
 {
     "game_version": "4.0",
     "game_url": "https://alynadv.github.io/samp_mobile_client/game/app-game-release.apk",
-    
-    "full_data_url": "https://alynadv.github.io/samp_mobile_client/full_data/list.json",
-    "lite_data_url": "",
 
     "data_url": "https://alynadv.github.io/samp_mobile_client/data/list.json",
     "obb_url": "https://alynadv.github.io/samp_mobile_client/obb/list.json"
